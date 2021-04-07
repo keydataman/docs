@@ -18,7 +18,7 @@ An integer value of **expression** will return a specific element of the command
 
 ## Note
 
-> It is assumed the command line arguments are space separated and when returning the entire command line, they are returned as such. The [SYSTEM(1000)](./../system-functions) function will return the command line attribute mark delimited.
+> It is assumed the command line arguments are space separated and when returning the entire command line, they are returned as such. The [SENTENCE(1000)](./../system-functions) function will return the command line attribute mark delimited.
 
 An example of use is as:
 
